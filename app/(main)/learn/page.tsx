@@ -1,8 +1,7 @@
 export default function LearnPage() {
   return (
-    <div>
-      <h1>Learn</h1>
-      <p>This is the learn page.</p>
+    <div className="flex flex-row-reverse gap-[48px] px-6">
+      <StickyWrapper>fiewjofiwejfoeiwh</StickyWrapper>
     </div>
   );
 }
